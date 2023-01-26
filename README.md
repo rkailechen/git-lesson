@@ -4,7 +4,7 @@
 
 ## Before the lesson
 
-Do the setup stuff
+Do the setup stuff <br />
 ~~Bring your laptop~~
 
 * list 1
