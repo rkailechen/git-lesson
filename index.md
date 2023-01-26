@@ -4,7 +4,7 @@
 
 ### The SUBBER HEADING
 
-** bold bold bold bodl bold BOLD BOLD DBOLD BOOLD BOLD BOLD BOLD**
+**bold bold bold bodl bold BOLD BOLD DBOLD BOOLD BOLD BOLD BOLD**
 
 _Non puoi insegnare niente a un uomo. Puoi solo aiutarlo a scoprire ciò che ha dentro di sé._
 
